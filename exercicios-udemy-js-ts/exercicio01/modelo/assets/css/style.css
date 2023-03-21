@@ -26,6 +26,17 @@ body {
   border-radius: 10px;
 }
 
+table {
+  background: #c29393;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: justify;
+  border-radius: 10px;
+}
+
 form input, form label, form button {
   display: block;
   width: 100%;
