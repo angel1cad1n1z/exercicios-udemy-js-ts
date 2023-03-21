@@ -2,6 +2,7 @@
 :root {
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
+  --color: rgb(102, 188, 207);
 }
 
 * {
@@ -27,7 +28,7 @@ body {
 }
 
 table {
-  background: #c29393;
+  background: var(--color);
   padding-left: 15px;
   padding-right: 15px;
   width: 100%;
